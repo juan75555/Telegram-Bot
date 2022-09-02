@@ -1,5 +1,5 @@
 ##  Code extracted from documentation of various used libraries and some posts on stackoverflow.
-##  Edited by @juan75555 on github.com
+##  Edited by @ruflas on github.com
 import logging
 import math
 from telegram import Update, ForceReply
